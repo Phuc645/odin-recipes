@@ -1,1 +1,1 @@
-This is a repice website with only basic HTML elements.
+This is a recipe website with only basic HTML elements.
