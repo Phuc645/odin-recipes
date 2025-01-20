@@ -1,0 +1,23 @@
+.title {
+    color:gray;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Roboto","Helvetica" ,sans-serif;
+}
+
+.recipe {
+    font-size: 20px;
+    font-family: "Monaco", "Lucida Console", monospace;
+}
+
+.beef {
+    color:maroon;
+}
+
+.chicken {
+    color:darkkhaki;
+}
+
+.curry {
+    color:darkorange
+}
