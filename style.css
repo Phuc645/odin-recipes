@@ -5,19 +5,19 @@
     font-family: "Roboto","Helvetica" ,sans-serif;
 }
 
-.recipe {
+.recipes{
     font-size: 20px;
     font-family: "Monaco", "Lucida Console", monospace;
 }
 
-.beef {
+.recipes .beef {
     color:maroon;
 }
 
-.chicken {
+.recipes .chicken {
     color:darkkhaki;
 }
 
-.curry {
-    color:darkorange
+.recipes .curry {
+    color:darkorange;
 }
