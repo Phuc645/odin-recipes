@@ -1,1 +1,1 @@
-This project is a recipe website using only basic HTML knowledge.
+This is a recipe website with only basic HTML elements.
