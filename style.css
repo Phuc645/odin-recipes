@@ -8,19 +8,9 @@
 .recipes{
     font-size: 20px;
     font-family: "Monaco", "Lucida Console", monospace;
+    color: maroon;
 }
 
-.recipes .beef {
-    color:maroon;
-}
-
-.recipes .chicken {
-    color:darkkhaki;
-}
-
-.recipes .curry {
-    color:darkorange;
-}
 
 * {
     background-color: bisque;
