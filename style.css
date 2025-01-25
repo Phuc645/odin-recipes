@@ -5,13 +5,15 @@
     font-family: "Roboto","Helvetica" ,sans-serif;
 }
 
-.recipes{
+div {
     font-size: 20px;
+    margin-bottom: 10px;
     font-family: "Monaco", "Lucida Console", monospace;
-    color: maroon;
+    text-align: center;
+    background-color: grey;
+    padding: 20px 30px;
+    color: white;
 }
 
 
-* {
-    background-color: bisque;
-}
+
